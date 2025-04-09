@@ -1,0 +1,10 @@
+
+.left img{
+    width: 31px;
+    height: 31px;
+}
+nav ul li{
+    list-style: none;
+     padding: 0 13px; 
+    /* margin:0 94px; */
+}
