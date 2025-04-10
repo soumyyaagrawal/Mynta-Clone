@@ -8,3 +8,21 @@ nav ul li{
      padding: 0 13px; 
     /* margin:0 94px; */
 }
+header{ height: 64px;
+position:sticky;
+top:0;
+background-color: white;}
+
+
+sup{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 15px;
+font-size: 9px;
+color: #c72c8c;
+}
+ul :hover, ul:focus {text-decoration: underline rgb(241, 56, 145) ; }
+
+.sec1{
+    background-color: rgb(228, 236, 236);
+    height:122vh;
+    
+}
