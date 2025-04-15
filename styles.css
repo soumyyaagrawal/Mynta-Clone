@@ -25,6 +25,12 @@ padding: 0px 17px 28px;
 
 ul :hover, ul:focus {text-decoration: underline rgb(241, 56, 145) ; }
 
+input{
+    height:25px;
+    width: 450px;
+    border-radius: 5px;
+    padding: 4px 17px;
+}
 
 .sec1{
     background-color: rgb(228, 236, 236);
