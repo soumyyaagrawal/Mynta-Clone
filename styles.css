@@ -1,4 +1,7 @@
-
+*{
+    padding:0;
+    margin:0;
+}
 .left img{
     width: 33px;
     height: 33px;
@@ -19,10 +22,19 @@ font-weight: 15px;
 font-size: 9px;
 color: #c72c8c;
 }
+
 ul :hover, ul:focus {text-decoration: underline rgb(241, 56, 145) ; }
+
+input{
+    height:25px;
+    width: 450px;
+}
 
 .sec1{
     background-color: rgb(228, 236, 236);
     height:122vh;
     
+}
+nav{
+    padding-top: 14px;
 }
