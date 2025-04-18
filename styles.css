@@ -2,6 +2,9 @@
     padding:0;
     margin:0;
 }
+mbody{background-color: rgb(228, 236, 236);
+    
+}
 .left img{
     width: 33px;
     height: 33px;
@@ -34,12 +37,17 @@ input{
 }
 
 .sec1{
-    background-color: rgb(228, 236, 236);
-    height:122vh;
+    
+    
     padding:0;
      
 
     
+}
+.sec2 img{
+    height:auto;
+    width: auto;
+    max-width: 100%;
 }
 
 .sec1 img{max-width: 100%; /* Prevent images from exceeding their container */
